@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "SamaGuetteu",
+    "packageName": "com.sheep.m2c.sama.guetteu",
+    "packageFolder": "com/sheep/m2c/sama/guetteu",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.4.1",
+    "jwtSecretKey": "M2QyYjk3MDdlZmNmM2VhMjM0ZmExZWE3ZDUyYTgxYjE2YjNlZGNlNWM1MTY2OGM1NDNlYTMyMTRmOWExZmY0NmUzYzAzZWEwMzA4MGQxNzE5NThlMDMwMjcyNjM4MThkZWQ4N2VkNjYzYWZhOGEzNWYzYTcyMzQ5MTNjYTNlMzM="
+  },
+  "git-provider": "GitHub",
+  "git-company": "tapha85",
+  "repository-name": "sama-guetteu"
+}
